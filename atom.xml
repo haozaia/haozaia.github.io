@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>渴望癖</title>
+  
+  <subtitle>一个努力向上的少年</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2021-07-05T03:28:12.715Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>渴望癖</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>React 新启程</title>
+    <link href="http://example.com/2021/07/05/React-1/"/>
+    <id>http://example.com/2021/07/05/React-1/</id>
+    <published>2021-07-05T02:52:18.000Z</published>
+    <updated>2021-07-05T03:28:12.715Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="React-全新启程"><a href="#React-全新启程" class="headerlink" title="React 全新启程"></a>React 全新启程</h1><p>之前使用的一直是Vue全家桶，觉得太过于局限，因此决定学习一下React全家桶，并且在能力范围仅可能将手上的项目转化为React语言进行编写，加油吧！少年（希望自己一直是少年）</p><p>最近有些疲惫，希望学习一些新的知识可以让自己焕发新的生机，加油吧</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;React-全新启程&quot;&gt;&lt;a href=&quot;#React-全新启程&quot; class=&quot;headerlink&quot; title=&quot;React 全新启程&quot;&gt;&lt;/a&gt;React 全新启程&lt;/h1&gt;&lt;p&gt;之前使用的一直是Vue全家桶，觉得太过于局限，因此决定学习一下React全家</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2021/07/05/hello-world/"/>
+    <id>http://example.com/2021/07/05/hello-world/</id>
+    <published>2021-07-05T02:34:09.150Z</published>
+    <updated>2021-07-05T02:34:09.150Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>三目运算符嵌套用法</title>
+    <link href="http://example.com/2020/09/14/%E4%B8%89%E7%9B%AE%E8%BF%90%E7%AE%97%E7%AC%A6%E5%B5%8C%E5%A5%97%E7%94%A8%E6%B3%95/"/>
+    <id>http://example.com/2020/09/14/%E4%B8%89%E7%9B%AE%E8%BF%90%E7%AE%97%E7%AC%A6%E5%B5%8C%E5%A5%97%E7%94%A8%E6%B3%95/</id>
+    <published>2020-09-14T08:55:02.000Z</published>
+    <updated>2021-07-05T03:15:16.667Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="三目运算符嵌套使用"><a href="#三目运算符嵌套使用" class="headerlink" title="三目运算符嵌套使用"></a>三目运算符嵌套使用</h1><p>三目运算基本用法:</p><p>条件判断 ? 成立值:不成立值<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">value&#x3D;&#x3D;0?console.log(&quot;value的值为0&quot;):console.log(&quot;value的值不为0&quot;)</span><br></pre></td></tr></table></figure><br>最近在写项目,突然遇到更复杂的判断,但是由于项目原因,不能试用if else 判断 只能使用三目运算,在网上搜到这样的写法，感觉挺好用<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">value&#x3D;&#x3D;0?console.log(&quot;value的值为0&quot;):(value&#x3D;&#x3D;1?console.log(&quot;value的值为1&quot;):console.log(&quot;value的值不为0也不为1&quot;))</span><br></pre></td></tr></table></figure></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;三目运算符嵌套使用&quot;&gt;&lt;a href=&quot;#三目运算符嵌套使用&quot; class=&quot;headerlink&quot; title=&quot;三目运算符嵌套使用&quot;&gt;&lt;/a&gt;三目运算符嵌套使用&lt;/h1&gt;&lt;p&gt;三目运算基本用法:&lt;/p&gt;
+&lt;p&gt;条件判断 ? 成立值:不成立值&lt;br&gt;&lt;figur</summary>
+      
+    
+    
+    
+    <category term="-js修行之路" scheme="http://example.com/categories/js%E4%BF%AE%E8%A1%8C%E4%B9%8B%E8%B7%AF/"/>
+    
+    
+    <category term="-js" scheme="http://example.com/tags/js/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Markdown常用语法</title>
+    <link href="http://example.com/2020/09/04/Markdown%E5%B8%B8%E7%94%A8%E8%AF%AD%E6%B3%95/"/>
+    <id>http://example.com/2020/09/04/Markdown%E5%B8%B8%E7%94%A8%E8%AF%AD%E6%B3%95/</id>
+    <published>2020-09-04T10:04:51.000Z</published>
+    <updated>2021-07-05T03:14:57.482Z</updated>
+    
+    <content type="html"><![CDATA[<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line"># 一级标题</span><br><span class="line">## 二级标题</span><br><span class="line">##### 五级标题</span><br><span class="line">- 列表第一项</span><br><span class="line">- 列表第二项</span><br><span class="line">1. 有序列表第一项</span><br><span class="line">2. 有序列表第二项</span><br><span class="line">[标题](链接地址)</span><br><span class="line">![图片描述](图片链接地址)</span><br><span class="line">*斜体*</span><br><span class="line">**粗体**</span><br><span class="line">&gt; 引用段落</span><br></pre></td></tr></table></figure><p>代码块<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"></span><br></pre></td></tr></table></figure></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class</summary>
+      
+    
+    
+    
+    
+    <category term="Markdown" scheme="http://example.com/tags/Markdown/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2020-09-02</title>
+    <link href="http://example.com/2020/09/02/2020-09-02/"/>
+    <id>http://example.com/2020/09/02/2020-09-02/</id>
+    <published>2020-09-02T10:23:13.000Z</published>
+    <updated>2021-07-05T02:34:09.150Z</updated>
+    
+    
+    
+    
+    <category term="分类1" scheme="http://example.com/categories/%E5%88%86%E7%B1%BB1/"/>
+    
+    <category term="分类2" scheme="http://example.com/categories/%E5%88%86%E7%B1%BB1/%E5%88%86%E7%B1%BB2/"/>
+    
+    
+    <category term="标签1" scheme="http://example.com/tags/%E6%A0%87%E7%AD%BE1/"/>
+    
+    <category term="标签2" scheme="http://example.com/tags/%E6%A0%87%E7%AD%BE2/"/>
+    
+    <category term="标签3" scheme="http://example.com/tags/%E6%A0%87%E7%AD%BE3/"/>
+    
+  </entry>
+  
+</feed>
